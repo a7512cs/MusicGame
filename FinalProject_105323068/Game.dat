@@ -1,0 +1,6 @@
+/*  Game Data  */
+Format Version = 01
+/*  Bound Data  */
+Left Upper  = 100 ,  50
+Right Lower = 650 , 1000
+Width = 5
