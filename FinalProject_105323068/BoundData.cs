@@ -16,7 +16,7 @@ namespace BoundData
         private Graphics g;
         public DrawBoundData(Graphics gIn)
         {
-            g = gIn;
+            g = gIn; 
         }
         public void DrawBound()
         {
